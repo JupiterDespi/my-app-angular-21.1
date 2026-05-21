@@ -1,4 +1,5 @@
 # Editor configuration, see https://editorconfig.org
+# despi's angular 21 boilerplate
 root = true
 
 [*]
